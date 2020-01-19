@@ -1,0 +1,27 @@
+doctype html
+html(lang="ja")
+  head
+    meta(charset="UTF-8")
+    meta(name="viewport" content="width=device-width, initial-scale=1.0")
+    meta(http-equiv="X-UA-Compatible" content="ie=edge")
+    title Document
+    link(rel="stylesheet" href="style.css")
+  body
+    h1 HTMLネストチェックCSS
+    p 入れ子にできないHTMLタグを入れ子にしている場合に視覚的に確認できます。
+      br
+      | ※警告色はSCSSの変数で一括変更できます。
+    p 使用方法：style.cssファイルを作成中のHTMLから読み込んでください。
+    h2 例
+    ul
+      li body>ul>li ok
+    li body>li ng
+
+
+    h2 対応状況　
+    p bodyダグ直下の子要素のみ
+    p 未対応親タグ(article section nav aside h1 h2 h3 h4 h5 h6 header footer address p hr pre blockquote ol ul li dl dt dd figure figcaption div main a em strong small s cite q dfn abbr data time code var samp kbd sub sup i b u mark ruby rb rt rtc rp bdi bdo span br wbr ins del picture img iframe embed object param video audio source track map area math svg table caption colgroup col tbody thead tfoot tr th td form label input button select datalist optgroup option textarea keygen output progress meter fieldset legend details summary dialog script noscript template canvas)
+
+    h2 既知の問題
+    p CSSではテキストノードを選択できないので、タグ直下にテキストを置く違反を判定できない
+    p 直下にテキストを置けるタグ(title style body article section nav aside h1 h2 h3 h4 h5 h6 header footer address p pre blockquote li dt dd figure figcaption div main a em strong small s cite q dfn abbr data time code var samp kbd sub sup i b u mark ruby rb rt rtc rp span ins del iframe object video audio map caption th td form label button datalist option textarea output progress meter fieldset legend details summary dialog script noscript template canvas)
