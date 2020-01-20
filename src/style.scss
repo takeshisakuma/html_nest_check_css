@@ -6,3 +6,745 @@ body>*:not(section):not(nav):not(aside):not(h1):not(h2):not(h3):not(h4):not(h5):
     color: $color !important;
     background-color: $bgcolor !important;
 }
+
+article>*:not(article) :not(section) nav :not(aside) :not(h1) :not(h2) :not(h3) :not(h4) :not(h5) :not(h6) :not(header) :not(footer) :not(address) :not(p) :not(hr) :not(pre) :not(blockquote) :not(ol) :not(ul) :not(dl) :not(figure) :not(div) :not(a) :not(em) :not(strong) :not(small) :not(s) :not(cite) :not(q) :not(dfn) :not(abbr) :not(data) :not(time) :not(code) :not(var) :not(samp) :not(kbd) :not(sub) :not(sup) :not(i) :not(b) :not(u) :not(mark) :not(ruby) :not(bdi) :not(bdo) :not(span) :not(br) :not(wbr) :not(ins) :not(del) :not(picture) :not(img) :not(iframe) :not(embed) :not(object) :not(video) :not(audio) :not(map) :not(math) :not(svg) :not(table) :not(form) :not(label) :not(input) :not(button) :not(select) :not(datalist) :not(textarea) :not(keygen) :not(output) :not(progress) :not(meter) :not(fieldset) :not(details) :not(dialog) :not(script) :not(noscript) :not(template) :not(canvas) {
+    color: $color !important;
+    background-color: $bgcolor !important;
+}
+
+section>*:not(article) :not(section) nav :not(aside) :not(h1) :not(h2) :not(h3) :not(h4) :not(h5) :not(h6) :not(header) :not(footer) :not(address) :not(p) :not(hr) :not(pre) :not(blockquote) :not(ol) :not(ul) :not(dl) :not(figure) :not(div) :not(a) :not(em) :not(strong) :not(small) :not(s) :not(cite) :not(q) :not(dfn) :not(abbr) :not(data) :not(time) :not(code) :not(var) :not(samp) :not(kbd) :not(sub) :not(sup) :not(i) :not(b) :not(u) :not(mark) :not(ruby) :not(bdi) :not(bdo) :not(span) :not(br) :not(wbr) :not(ins) :not(del) :not(picture) :not(img) :not(iframe) :not(embed) :not(object) :not(video) :not(audio) :not(map) :not(math) :not(svg) :not(table) :not(form) :not(label) :not(input) :not(button) :not(select) :not(datalist) :not(textarea) :not(keygen) :not(output) :not(progress) :not(meter) :not(fieldset) :not(details) :not(dialog) :not(script) :not(noscript) :not(template) :not(canvas) {
+    color: $color !important;
+    background-color: $bgcolor !important;
+}
+
+nav>*:not(article) :not(section) nav :not(aside) :not(h1) :not(h2) :not(h3) :not(h4) :not(h5) :not(h6) :not(header) :not(footer) :not(address) :not(p) :not(hr) :not(pre) :not(blockquote) :not(ol) :not(ul) :not(dl) :not(figure) :not(div) :not(a) :not(em) :not(strong) :not(small) :not(s) :not(cite) :not(q) :not(dfn) :not(abbr) :not(data) :not(time) :not(code) :not(var) :not(samp) :not(kbd) :not(sub) :not(sup) :not(i) :not(b) :not(u) :not(mark) :not(ruby) :not(bdi) :not(bdo) :not(span) :not(br) :not(wbr) :not(ins) :not(del) :not(picture) :not(img) :not(iframe) :not(embed) :not(object) :not(video) :not(audio) :not(map) :not(math) :not(svg) :not(table) :not(form) :not(label) :not(input) :not(button) :not(select) :not(datalist) :not(textarea) :not(keygen) :not(output) :not(progress) :not(meter) :not(fieldset) :not(details) :not(dialog) :not(script) :not(noscript) :not(template) :not(canvas) {
+    color: $color !important;
+    background-color: $bgcolor !important;
+}
+
+aside>*:not(article) :not(section) nav :not(aside) :not(h1) :not(h2) :not(h3) :not(h4) :not(h5) :not(h6) :not(header) :not(footer) :not(address) :not(p) :not(hr) :not(pre) :not(blockquote) :not(ol) :not(ul) :not(dl) :not(figure) :not(div) :not(a) :not(em) :not(strong) :not(small) :not(s) :not(cite) :not(q) :not(dfn) :not(abbr) :not(data) :not(time) :not(code) :not(var) :not(samp) :not(kbd) :not(sub) :not(sup) :not(i) :not(b) :not(u) :not(mark) :not(ruby) :not(bdi) :not(bdo) :not(span) :not(br) :not(wbr) :not(ins) :not(del) :not(picture) :not(img) :not(iframe) :not(embed) :not(object) :not(video) :not(audio) :not(map) :not(math) :not(svg) :not(table) :not(form) :not(label) :not(input) :not(button) :not(select) :not(datalist) :not(textarea) :not(keygen) :not(output) :not(progress) :not(meter) :not(fieldset) :not(details) :not(dialog) :not(script) :not(noscript) :not(template) :not(canvas) {
+    color: $color !important;
+    background-color: $bgcolor !important;
+}
+
+h1>*:not(a):not(em):not(strong):not(small):not(s):not(cite):not(q):not(dfn):not(abbr):not(data):not(time):not(code):not(var):not(samp):not(kbd):not(sub):not(sup):not(i):not(b):not(u):not(mark):not(ruby):not(bdi):not(bdo):not(span):not(br):not(wbr):not(ins):not(del):not(picture):not(img):not(iframe):not(embed):not(object):not(video):not(audio):not(map):not(math):not(svg):not(label):not(input):not(button):not(select):not(datalist):not(textarea):not(keygen):not(output):not(progress):not(meter):not(script):not(noscript):not(template):not(canvas) {
+    color: $color !important;
+    background-color: $bgcolor !important;
+}
+
+h2>*:not(a):not(em):not(strong):not(small):not(s):not(cite):not(q):not(dfn):not(abbr):not(data):not(time):not(code):not(var):not(samp):not(kbd):not(sub):not(sup):not(i):not(b):not(u):not(mark):not(ruby):not(bdi):not(bdo):not(span):not(br):not(wbr):not(ins):not(del):not(picture):not(img):not(iframe):not(embed):not(object):not(video):not(audio):not(map):not(math):not(svg):not(label):not(input):not(button):not(select):not(datalist):not(textarea):not(keygen):not(output):not(progress):not(meter):not(script):not(noscript):not(template):not(canvas) {
+    color: $color !important;
+    background-color: $bgcolor !important;
+}
+
+h3>*:not(a):not(em):not(strong):not(small):not(s):not(cite):not(q):not(dfn):not(abbr):not(data):not(time):not(code):not(var):not(samp):not(kbd):not(sub):not(sup):not(i):not(b):not(u):not(mark):not(ruby):not(bdi):not(bdo):not(span):not(br):not(wbr):not(ins):not(del):not(picture):not(img):not(iframe):not(embed):not(object):not(video):not(audio):not(map):not(math):not(svg):not(label):not(input):not(button):not(select):not(datalist):not(textarea):not(keygen):not(output):not(progress):not(meter):not(script):not(noscript):not(template):not(canvas) {
+    color: $color !important;
+    background-color: $bgcolor !important;
+}
+
+h4>*:not(a):not(em):not(strong):not(small):not(s):not(cite):not(q):not(dfn):not(abbr):not(data):not(time):not(code):not(var):not(samp):not(kbd):not(sub):not(sup):not(i):not(b):not(u):not(mark):not(ruby):not(bdi):not(bdo):not(span):not(br):not(wbr):not(ins):not(del):not(picture):not(img):not(iframe):not(embed):not(object):not(video):not(audio):not(map):not(math):not(svg):not(label):not(input):not(button):not(select):not(datalist):not(textarea):not(keygen):not(output):not(progress):not(meter):not(script):not(noscript):not(template):not(canvas) {
+    color: $color !important;
+    background-color: $bgcolor !important;
+}
+
+h5>* :not(a):not(em):not(strong):not(small):not(s):not(cite):not(q):not(dfn):not(abbr):not(data):not(time):not(code):not(var):not(samp):not(kbd):not(sub):not(sup):not(i):not(b):not(u):not(mark):not(ruby):not(bdi):not(bdo):not(span):not(br):not(wbr):not(ins):not(del):not(picture):not(img):not(iframe):not(embed):not(object):not(video):not(audio):not(map):not(math):not(svg):not(label):not(input):not(button):not(select):not(datalist):not(textarea):not(keygen):not(output):not(progress):not(meter):not(script):not(noscript):not(template):not(canvas) {
+    color: $color !important;
+    background-color: $bgcolor !important;
+}
+
+h6>*:not(a):not(em):not(strong):not(small):not(s):not(cite):not(q):not(dfn):not(abbr):not(data):not(time):not(code):not(var):not(samp):not(kbd):not(sub):not(sup):not(i):not(b):not(u):not(mark):not(ruby):not(bdi):not(bdo):not(span):not(br):not(wbr):not(ins):not(del):not(picture):not(img):not(iframe):not(embed):not(object):not(video):not(audio):not(map):not(math):not(svg):not(label):not(input):not(button):not(select):not(datalist):not(textarea):not(keygen):not(output):not(progress):not(meter):not(script):not(noscript):not(template):not(canvas) {
+    color: $color !important;
+    background-color: $bgcolor !important;
+}
+
+header>*:not(article) :not(section) :not(nav) :not(aside) :not(h1) :not(h2) :not(h3) :not(h4) :not(h5) :not(h6) :not(address) :not(p) :not(hr) :not(pre) :not(blockquote) :not(ol) :not(ul) :not(dl) :not(figure) :not(div) :not(a) :not(em) :not(strong) :not(small) :not(s) :not(cite) :not(q) :not(dfn) :not(abbr) :not(data) :not(time) :not(code) :not(var) :not(samp) :not(kbd) :not(sub) :not(sup) :not(i) :not(b) :not(u) :not(mark) :not(ruby) :not(bdi) :not(bdo) :not(span) :not(br) :not(wbr) :not(ins) :not(del) :not(picture) :not(img) :not(iframe) :not(embed) :not(object) :not(video) :not(audio) :not(map) :not(math) :not(svg) :not(table) :not(form) :not(label) :not(input) :not(button) :not(select) :not(datalist) :not(textarea) :not(keygen) :not(output) :not(progress) :not(meter) :not(fieldset) :not(details) :not(dialog) :not(script) :not(noscript) :not(template) :not(canvas) {
+    color: $color !important;
+    background-color: $bgcolor !important;
+}
+
+footer>*:not(article) :not(section) :not(nav) :not(aside) :not(h1) :not(h2) :not(h3) :not(h4) :not(h5) :not(h6) :not(address) :not(p) :not(hr) :not(pre) :not(blockquote) :not(ol) :not(ul) :not(dl) :not(figure) :not(div) :not(a) :not(em) :not(strong) :not(small) :not(s) :not(cite) :not(q) :not(dfn) :not(abbr) :not(data) :not(time) :not(code) :not(var) :not(samp) :not(kbd) :not(sub) :not(sup) :not(i) :not(b) :not(u) :not(mark) :not(ruby) :not(bdi) :not(bdo) :not(span) :not(br) :not(wbr) :not(ins) :not(del) :not(picture) :not(img) :not(iframe) :not(embed) :not(object) :not(video) :not(audio) :not(map) :not(math) :not(svg) :not(table) :not(form) :not(label) :not(input) :not(button) :not(select) :not(datalist) :not(textarea) :not(keygen) :not(output) :not(progress) :not(meter) :not(fieldset) :not(details) :not(dialog) :not(script) :not(noscript) :not(template) :not(canvas) {
+    color: $color !important;
+    background-color: $bgcolor !important;
+}
+
+address>*:not(p) :not(hr) :not(pre) :not(blockquote) :not(ol) :not(ul) :not(dl) :not(figure) :not(div) :not(a) :not(em) :not(strong) :not(small) :not(s) :not(cite) :not(q) :not(dfn) :not(abbr) :not(data) :not(time) :not(code) :not(var) :not(samp) :not(kbd) :not(sub) :not(sup) :not(i) :not(b) :not(u) :not(mark) :not(ruby) :not(bdi) :not(bdo) :not(span) :not(br) :not(wbr) :not(ins) :not(del) :not(picture) :not(img) :not(iframe) :not(embed) :not(object) :not(video) :not(audio) :not(map) :not(math) :not(svg) :not(table) :not(form) :not(label) :not(input) :not(button) :not(select) :not(datalist) :not(textarea) :not(keygen) :not(output) :not(progress) :not(meter) :not(fieldset) :not(details) :not(dialog) :not(script) :not(noscript) :not(template) :not(canvas) {
+    color: $color !important;
+    background-color: $bgcolor !important;
+}
+
+p>* :not(a):not(em):not(strong):not(small):not(s):not(cite):not(q):not(dfn):not(abbr):not(data):not(time):not(code):not(var):not(samp):not(kbd):not(sub):not(sup):not(i):not(b):not(u):not(mark):not(ruby):not(bdi):not(bdo):not(span):not(br):not(wbr):not(ins):not(del):not(picture):not(img):not(iframe):not(embed):not(object):not(video):not(audio):not(map):not(math):not(svg):not(label):not(input):not(button):not(select):not(datalist):not(textarea):not(keygen):not(output):not(progress):not(meter):not(script):not(noscript):not(template):not(canvas) {
+    color: $color !important;
+    background-color: $bgcolor !important;
+}
+
+hr>* {
+    color: $color !important;
+    background-color: $bgcolor !important;
+}
+
+pre>*:not(a):not(em):not(strong):not(small):not(s):not(cite):not(q):not(dfn):not(abbr):not(data):not(time):not(code):not(var):not(samp):not(kbd):not(sub):not(sup):not(i):not(b):not(u):not(mark):not(ruby):not(bdi):not(bdo):not(span):not(br):not(wbr):not(ins):not(del):not(picture):not(img):not(iframe):not(embed):not(object):not(video):not(audio):not(map):not(math):not(svg):not(label):not(input):not(button):not(select):not(datalist):not(textarea):not(keygen):not(output):not(progress):not(meter):not(script):not(noscript):not(template):not(canvas) {
+    color: $color !important;
+    background-color: $bgcolor !important;
+}
+
+blockquote>*:not(article):not(section):not(nav):not(aside):not(h1):not(h2):not(h3):not(h4):not(h5):not(h6):not(header):not(footer):not(address):not(p):not(hr):not(pre blockquote):not(ol):not(ul):not(dl):not(figure):not(div):not(a):not(em):not(strong):not(small):not(s):not(cite):not(q):not(dfn):not(abbr):not(data):not(time):not(code):not(var):not(samp):not(kbd):not(sub):not(sup):not(i):not(b):not(u):not(mark):not(ruby):not(bdi):not(bdo):not(span):not(br):not(wbr):not(ins):not(del):not(picture):not(img):not(iframe):not(embed):not(object):not(video):not(audio):not(map):not(math):not(svg):not(table):not(form):not(label):not(input):not(button):not(select):not(datalist):not(textarea):not(keygen):not(output):not(progress):not(meter):not(fieldset):not(details):not(dialog):not(script):not(noscript):not(template):not(canvas) {
+    color: $color !important;
+    background-color: $bgcolor !important;
+}
+
+ol>*:not(li):not(script):not(template) {
+    color: $color !important;
+    background-color: $bgcolor !important;
+}
+
+ul>*:not(li):not(script):not(template) {
+    color: $color !important;
+    background-color: $bgcolor !important;
+}
+
+li>*:not(article):not(section):not(nav):not(aside):not(h1):not(h2):not(h3):not(h4):not(h5):not(h6):not(header):not(footer):not(address):not(p):not(hr):not(pre):not(blockquote):not(ol):not(ul):not(dl):not(figure):not(div):not(a):not(em):not(strong):not(small):not(s):not(cite):not(q):not(dfn):not(abbr):not(data):not(time):not(code):not(var):not(samp):not(kbd):not(sub):not(sup):not(i):not(b):not(u):not(mark):not(ruby):not(bdi):not(bdo):not(span):not(br):not(wbr):not(ins):not(del):not(picture):not(img):not(iframe):not(embed):not(object):not(video):not(audio):not(map):not(math):not(svg):not(table):not(form):not(label):not(input):not(button):not(select):not(datalist):not(textarea):not(keygen):not(output):not(progress):not(meter):not(fieldset):not(details):not(dialog):not(script):not(noscript):not(template):not(canvas) {
+    color: $color !important;
+    background-color: $bgcolor !important;
+}
+
+
+
+
+
+dl>*:not(dt):not(dd):not(div):not(script):not(template) {
+    color: $color !important;
+    background-color: $bgcolor !important;
+}
+
+
+dt>*:not(address):not(p):not(hr):not(pre):not(blockquote):not(ol):not(ul):not(dl):not(figure):not(div):not(a):not(em):not(strong):not(small):not(s):not(cite):not(q):not(dfn):not(abbr):not(data):not(time):not(code):not(var):not(samp):not(kbd):not(sub):not(sup):not(i):not(b):not(u):not(mark):not(ruby):not(bdi):not(bdo):not(span):not(br):not(wbr):not(ins):not(del):not(picture):not(img):not(iframe):not(embed):not(object):not(video):not(audio):not(map):not(math):not(svg):not(table):not(form):not(label):not(input):not(button):not(select):not(datalist):not(textarea):not(keygen):not(output):not(progress):not(meter):not(fieldset):not(details):not(dialog):not(script):not(noscript):not(template):not(canvas) {
+    color: $color !important;
+    background-color: $bgcolor !important;
+}
+
+
+dd>*:not(article):not(section):not(nav):not(aside):not(h1):not(h2):not(h3):not(h4):not(h5 h6):not(header):not(footer):not(address):not(p):not(hr):not(pre):not(blockquote):not(ol):not(ul):not(dl):not(figure):not(div):not(a):not(em):not(strong):not(small):not(s):not(cite):not(q):not(dfn):not(abbr):not(data):not(time):not(code):not(var):not(samp):not(kbd):not(sub):not(sup):not(i):not(b):not(u):not(mark):not(ruby):not(bdi):not(bdo):not(span):not(br):not(wbr):not(ins):not(del):not(picture):not(img):not(iframe):not(embed):not(object):not(video):not(audio):not(map):not(math):not(svg):not(table):not(form):not(label):not(input):not(button):not(select):not(datalist):not(textarea):not(keygen):not(output):not(progress):not(meter):not(fieldset):not(details):not(dialog):not(script):not(noscript):not(template):not(canvas) {
+    color: $color !important;
+    background-color: $bgcolor !important;
+}
+
+figure>*:not(article):not(section):not(nav):not(aside):not(h1):not(h2):not(h3):not(h4):not(h5 h6):not(header):not(footer):not(address):not(p):not(hr):not(pre):not(blockquote):not(ol):not(ul):not(dl):not(figure):not(div):not(a):not(em):not(strong):not(small):not(s):not(cite):not(q):not(dfn):not(abbr):not(data):not(time):not(code):not(var):not(samp):not(kbd):not(sub):not(sup):not(i):not(b):not(u):not(mark):not(ruby):not(bdi):not(bdo):not(span):not(br):not(wbr):not(ins):not(del):not(picture):not(img):not(iframe):not(embed):not(object):not(video):not(audio):not(map):not(math):not(svg):not(table):not(form):not(label):not(input):not(button):not(select):not(datalist):not(textarea):not(keygen):not(output):not(progress):not(meter):not(fieldset):not(details):not(dialog):not(script):not(noscript):not(template):not(canvas) {
+    color: $color !important;
+    background-color: $bgcolor !important;
+}
+
+figcaption>*:not(article):not(section):not(nav):not(aside):not(h1):not(h2):not(h3):not(h4):not(h5):not(h6):not(header):not(footer):not(address):not(p):not(hr):not(pre blockquote):not(ol):not(ul):not(dl):not(figure):not(div):not(a):not(em):not(strong):not(small):not(s):not(cite):not(q):not(dfn):not(abbr):not(data):not(time):not(code):not(var):not(samp):not(kbd):not(sub):not(sup):not(i):not(b):not(u):not(mark):not(ruby):not(bdi):not(bdo):not(span):not(br):not(wbr):not(ins):not(del):not(picture):not(img):not(iframe):not(embed):not(object):not(video):not(audio):not(map):not(math):not(svg):not(table):not(form):not(label):not(input):not(button):not(select):not(datalist):not(textarea):not(keygen):not(output):not(progress):not(meter):not(fieldset):not(details):not(dialog):not(script):not(noscript):not(template):not(canvas) {
+    color: $color !important;
+    background-color: $bgcolor !important;
+}
+
+div>*:not(article):not(section):not(nav):not(aside):not(h1):not(h2):not(h3):not(h4):not(h5):not(h6):not(header):not(footer):not(address):not(p):not(hr):not(pre):not(blockquote):not(ol):not(ul):not(figure):not(div):not(main):not(a):not(em):not(strong):not(small):not(s):not(cite):not(q):not(dfn):not(abbr):not(data):not(time):not(code):not(var):not(samp):not(kbd):not(sub):not(sup):not(i):not(b):not(u):not(mark):not(ruby):not(bdi):not(bdo):not(span):not(br):not(wbr):not(ins):not(del):not(picture):not(img):not(iframe):not(embed):not(object):not(video):not(audio):not(map):not(math):not(svg):not(table):not(form):not(label):not(input):not(button):not(select):not(datalist):not(textarea):not(keygen):not(output):not(progress):not(meter):not(fieldset):not(details):not(dialog):not(script):not(noscript):not(template):not(canvas) {
+    color: $color !important;
+    background-color: $bgcolor !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+main>* :not(article):not(section):not(nav):not(aside):not(h1):not(h2):not(h3):not(h4):not(h5):not(h6):not(header):not(footer):not(address):not(p):not(hr):not(pre blockquote):not(ol):not(ul):not(dl):not(figure):not(div):not(a):not(em):not(strong):not(small):not(s):not(cite):not(q):not(dfn):not(abbr):not(data):not(time):not(code):not(var):not(samp):not(kbd):not(sub):not(sup):not(i):not(b):not(u):not(mark):not(ruby):not(bdi):not(bdo):not(span):not(br):not(wbr):not(ins):not(del):not(picture):not(img):not(iframe):not(embed):not(object):not(video):not(audio):not(map):not(math):not(svg):not(table):not(form):not(label):not(input):not(button):not(select):not(datalist):not(textarea):not(keygen):not(output):not(progress):not(meter):not(fieldset):not(details):not(dialog):not(script):not(noscript):not(template):not(canvas) {
+    color: $color !important;
+    background-color: $bgcolor !important;
+}
+
+
+
+
+
+a>* {}
+
+em>*:not(a):not(em):not(strong):not(small):not(s):not(cite):not(q):not(dfn):not(abbr):not(data):not(time):not(code):not(var):not(samp):not(kbd):not(sub):not(sup):not(i):not(b):not(u):not(mark):not(ruby):not(bdi):not(bdo):not(span):not(br):not(wbr):not(ins):not(del):not(picture):not(img):not(iframe):not(embed):not(object):not(video):not(audio):not(map):not(math):not(svg):not(label):not(input):not(button):not(select):not(datalist):not(textarea):not(keygen):not(output):not(progress):not(meter):not(script):not(noscript):not(template):not(canvas) {
+    color: $color !important;
+    background-color: $bgcolor !important;
+}
+
+strong>*:not(a):not(em):not(strong):not(small):not(s):not(cite):not(q):not(dfn):not(abbr):not(data):not(time):not(code):not(var):not(samp):not(kbd):not(sub):not(sup):not(i):not(b):not(u):not(mark):not(ruby):not(bdi):not(bdo):not(span):not(br):not(wbr):not(ins):not(del):not(picture):not(img):not(iframe):not(embed):not(object):not(video):not(audio):not(map):not(math):not(svg):not(label):not(input):not(button):not(select):not(datalist):not(textarea):not(keygen):not(output):not(progress):not(meter):not(script):not(noscript):not(template):not(canvas) {
+    color: $color !important;
+    background-color: $bgcolor !important;
+}
+
+small>*:not(a):not(em):not(strong):not(small):not(s):not(cite):not(q):not(dfn):not(abbr):not(data):not(time):not(code):not(var):not(samp):not(kbd):not(sub):not(sup):not(i):not(b):not(u):not(mark):not(ruby):not(bdi):not(bdo):not(span):not(br):not(wbr):not(ins):not(del):not(picture):not(img):not(iframe):not(embed):not(object):not(video):not(audio):not(map):not(math):not(svg):not(label):not(input):not(button):not(select):not(datalist):not(textarea):not(keygen):not(output):not(progress):not(meter):not(script):not(noscript):not(template):not(canvas) {
+    color: $color !important;
+    background-color: $bgcolor !important;
+}
+
+s>*:not(a):not(em):not(strong):not(small):not(s):not(cite):not(q):not(dfn):not(abbr):not(data):not(time):not(code):not(var):not(samp):not(kbd):not(sub):not(sup):not(i):not(b):not(u):not(mark):not(ruby):not(bdi):not(bdo):not(span):not(br):not(wbr):not(ins):not(del):not(picture):not(img):not(iframe):not(embed):not(object):not(video):not(audio):not(map):not(math):not(svg):not(label):not(input):not(button):not(select):not(datalist):not(textarea):not(keygen):not(output):not(progress):not(meter):not(script):not(noscript):not(template):not(canvas) {
+    color: $color !important;
+    background-color: $bgcolor !important;
+}
+
+cite>*:not(a):not(em):not(strong):not(small):not(s):not(cite):not(q):not(dfn):not(abbr):not(data):not(time):not(code):not(var):not(samp):not(kbd):not(sub):not(sup):not(i):not(b):not(u):not(mark):not(ruby):not(bdi):not(bdo):not(span):not(br):not(wbr):not(ins):not(del):not(picture):not(img):not(iframe):not(embed):not(object):not(video):not(audio):not(map):not(math):not(svg):not(label):not(input):not(button):not(select):not(datalist):not(textarea):not(keygen):not(output):not(progress):not(meter):not(script):not(noscript):not(template):not(canvas) {
+    color: $color !important;
+    background-color: $bgcolor !important;
+}
+
+q>*:not(a):not(em):not(strong):not(small):not(s):not(cite):not(q):not(dfn):not(abbr):not(data):not(time):not(code):not(var):not(samp):not(kbd):not(sub):not(sup):not(i):not(b):not(u):not(mark):not(ruby):not(bdi):not(bdo):not(span):not(br):not(wbr):not(ins):not(del):not(picture):not(img):not(iframe):not(embed):not(object):not(video):not(audio):not(map):not(math):not(svg):not(label):not(input):not(button):not(select):not(datalist):not(textarea):not(keygen):not(output):not(progress):not(meter):not(script):not(noscript):not(template):not(canvas) {
+    color: $color !important;
+    background-color: $bgcolor !important;
+}
+
+dfn>*:not(a):not(em):not(strong):not(small):not(s):not(cite):not(q):not(dfn):not(abbr):not(data):not(time):not(code):not(var):not(samp):not(kbd):not(sub):not(sup):not(i):not(b):not(u):not(mark):not(ruby):not(bdi):not(bdo):not(span):not(br):not(wbr):not(ins):not(del):not(picture):not(img):not(iframe):not(embed):not(object):not(video):not(audio):not(map):not(math):not(svg):not(label):not(input):not(button):not(select):not(datalist):not(textarea):not(keygen):not(output):not(progress):not(meter):not(script):not(noscript):not(template):not(canvas) {
+    color: $color !important;
+    background-color: $bgcolor !important;
+}
+
+abbr>*:not(a):not(em):not(strong):not(small):not(s):not(cite):not(q):not(dfn):not(abbr):not(data):not(time):not(code):not(var):not(samp):not(kbd):not(sub):not(sup):not(i):not(b):not(u):not(mark):not(ruby):not(bdi):not(bdo):not(span):not(br):not(wbr):not(ins):not(del):not(picture):not(img):not(iframe):not(embed):not(object):not(video):not(audio):not(map):not(math):not(svg):not(label):not(input):not(button):not(select):not(datalist):not(textarea):not(keygen):not(output):not(progress):not(meter):not(script):not(noscript):not(template):not(canvas) {
+    color: $color !important;
+    background-color: $bgcolor !important;
+}
+
+data>*:not(a):not(em):not(strong):not(small):not(s):not(cite):not(q):not(dfn):not(abbr):not(data):not(time):not(code):not(var):not(samp):not(kbd):not(sub):not(sup):not(i):not(b):not(u):not(mark):not(ruby):not(bdi):not(bdo):not(span):not(br):not(wbr):not(ins):not(del):not(picture):not(img):not(iframe):not(embed):not(object):not(video):not(audio):not(map):not(math):not(svg):not(label):not(input):not(button):not(select):not(datalist):not(textarea):not(keygen):not(output):not(progress):not(meter):not(script):not(noscript):not(template):not(canvas) {
+    color: $color !important;
+    background-color: $bgcolor !important;
+}
+
+time>*:not(a):not(em):not(strong):not(small):not(s):not(cite):not(q):not(dfn):not(abbr):not(data):not(time):not(code):not(var):not(samp):not(kbd):not(sub):not(sup):not(i):not(b):not(u):not(mark):not(ruby):not(bdi):not(bdo):not(span):not(br):not(wbr):not(ins):not(del):not(picture):not(img):not(iframe):not(embed):not(object):not(video):not(audio):not(map):not(math):not(svg):not(label):not(input):not(button):not(select):not(datalist):not(textarea):not(keygen):not(output):not(progress):not(meter):not(script):not(noscript):not(template):not(canvas) {
+    color: $color !important;
+    background-color: $bgcolor !important;
+}
+
+code>*:not(a):not(em):not(strong):not(small):not(s):not(cite):not(q):not(dfn):not(abbr):not(data):not(time):not(code):not(var):not(samp):not(kbd):not(sub):not(sup):not(i):not(b):not(u):not(mark):not(ruby):not(bdi):not(bdo):not(span):not(br):not(wbr):not(ins):not(del):not(picture):not(img):not(iframe):not(embed):not(object):not(video):not(audio):not(map):not(math):not(svg):not(label):not(input):not(button):not(select):not(datalist):not(textarea):not(keygen):not(output):not(progress):not(meter):not(script):not(noscript):not(template):not(canvas) {
+    color: $color !important;
+    background-color: $bgcolor !important;
+}
+
+var>*:not(a):not(em):not(strong):not(small):not(s):not(cite):not(q):not(dfn):not(abbr):not(data):not(time):not(code):not(var):not(samp):not(kbd):not(sub):not(sup):not(i):not(b):not(u):not(mark):not(ruby):not(bdi):not(bdo):not(span):not(br):not(wbr):not(ins):not(del):not(picture):not(img):not(iframe):not(embed):not(object):not(video):not(audio):not(map):not(math):not(svg):not(label):not(input):not(button):not(select):not(datalist):not(textarea):not(keygen):not(output):not(progress):not(meter):not(script):not(noscript):not(template):not(canvas) {
+    color: $color !important;
+    background-color: $bgcolor !important;
+}
+
+samp>*:not(a):not(em):not(strong):not(small):not(s):not(cite):not(q):not(dfn):not(abbr):not(data):not(time):not(code):not(var):not(samp):not(kbd):not(sub):not(sup):not(i):not(b):not(u):not(mark):not(ruby):not(bdi):not(bdo):not(span):not(br):not(wbr):not(ins):not(del):not(picture):not(img):not(iframe):not(embed):not(object):not(video):not(audio):not(map):not(math):not(svg):not(label):not(input):not(button):not(select):not(datalist):not(textarea):not(keygen):not(output):not(progress):not(meter):not(script):not(noscript):not(template):not(canvas) {
+    color: $color !important;
+    background-color: $bgcolor !important;
+}
+
+kbd>*:not(a):not(em):not(strong):not(small):not(s):not(cite):not(q):not(dfn):not(abbr):not(data):not(time):not(code):not(var):not(samp):not(kbd):not(sub):not(sup):not(i):not(b):not(u):not(mark):not(ruby):not(bdi):not(bdo):not(span):not(br):not(wbr):not(ins):not(del):not(picture):not(img):not(iframe):not(embed):not(object):not(video):not(audio):not(map):not(math):not(svg):not(label):not(input):not(button):not(select):not(datalist):not(textarea):not(keygen):not(output):not(progress):not(meter):not(script):not(noscript):not(template):not(canvas) {
+    color: $color !important;
+    background-color: $bgcolor !important;
+}
+
+sub>*:not(a):not(em):not(strong):not(small):not(s):not(cite):not(q):not(dfn):not(abbr):not(data):not(time):not(code):not(var):not(samp):not(kbd):not(sub):not(sup):not(i):not(b):not(u):not(mark):not(ruby):not(bdi):not(bdo):not(span):not(br):not(wbr):not(ins):not(del):not(picture):not(img):not(iframe):not(embed):not(object):not(video):not(audio):not(map):not(math):not(svg):not(label):not(input):not(button):not(select):not(datalist):not(textarea):not(keygen):not(output):not(progress):not(meter):not(script):not(noscript):not(template):not(canvas) {
+    color: $color !important;
+    background-color: $bgcolor !important;
+}
+
+sup>*:not(a):not(em):not(strong):not(small):not(s):not(cite):not(q):not(dfn):not(abbr):not(data):not(time):not(code):not(var):not(samp):not(kbd):not(sub):not(sup):not(i):not(b):not(u):not(mark):not(ruby):not(bdi):not(bdo):not(span):not(br):not(wbr):not(ins):not(del):not(picture):not(img):not(iframe):not(embed):not(object):not(video):not(audio):not(map):not(math):not(svg):not(label):not(input):not(button):not(select):not(datalist):not(textarea):not(keygen):not(output):not(progress):not(meter):not(script):not(noscript):not(template):not(canvas) {
+    color: $color !important;
+    background-color: $bgcolor !important;
+}
+
+i>*:not(a):not(em):not(strong):not(small):not(s):not(cite):not(q):not(dfn):not(abbr):not(data):not(time):not(code):not(var):not(samp):not(kbd):not(sub):not(sup):not(i):not(b):not(u):not(mark):not(ruby):not(bdi):not(bdo):not(span):not(br):not(wbr):not(ins):not(del):not(picture):not(img):not(iframe):not(embed):not(object):not(video):not(audio):not(map):not(math):not(svg):not(label):not(input):not(button):not(select):not(datalist):not(textarea):not(keygen):not(output):not(progress):not(meter):not(script):not(noscript):not(template):not(canvas) {
+    color: $color !important;
+    background-color: $bgcolor !important;
+}
+
+b>*:not(a):not(em):not(strong):not(small):not(s):not(cite):not(q):not(dfn):not(abbr):not(data):not(time):not(code):not(var):not(samp):not(kbd):not(sub):not(sup):not(i):not(b):not(u):not(mark):not(ruby):not(bdi):not(bdo):not(span):not(br):not(wbr):not(ins):not(del):not(picture):not(img):not(iframe):not(embed):not(object):not(video):not(audio):not(map):not(math):not(svg):not(label):not(input):not(button):not(select):not(datalist):not(textarea):not(keygen):not(output):not(progress):not(meter):not(script):not(noscript):not(template):not(canvas) {
+    color: $color !important;
+    background-color: $bgcolor !important;
+}
+
+u>*:not(a):not(em):not(strong):not(small):not(s):not(cite):not(q):not(dfn):not(abbr):not(data):not(time):not(code):not(var):not(samp):not(kbd):not(sub):not(sup):not(i):not(b):not(u):not(mark):not(ruby):not(bdi):not(bdo):not(span):not(br):not(wbr):not(ins):not(del):not(picture):not(img):not(iframe):not(embed):not(object):not(video):not(audio):not(map):not(math):not(svg):not(label):not(input):not(button):not(select):not(datalist):not(textarea):not(keygen):not(output):not(progress):not(meter):not(script):not(noscript):not(template):not(canvas) {
+    color: $color !important;
+    background-color: $bgcolor !important;
+}
+
+mark>*:not(a):not(em):not(strong):not(small):not(s):not(cite):not(q):not(dfn):not(abbr):not(data):not(time):not(code):not(var):not(samp):not(kbd):not(sub):not(sup):not(i):not(b):not(u):not(mark):not(ruby):not(bdi):not(bdo):not(span):not(br):not(wbr):not(ins):not(del):not(picture):not(img):not(iframe):not(embed):not(object):not(video):not(audio):not(map):not(math):not(svg):not(label):not(input):not(button):not(select):not(datalist):not(textarea):not(keygen):not(output):not(progress):not(meter):not(script):not(noscript):not(template):not(canvas) {
+    color: $color !important;
+    background-color: $bgcolor !important;
+}
+
+ruby>*:not(a):not(em):not(strong):not(small):not(s):not(cite):not(q):not(dfn):not(abbr):not(data):not(time):not(code):not(var):not(samp):not(kbd):not(sub):not(sup):not(i):not(b):not(u):not(mark):not(ruby):not(rb):not(rt):not(rtc):not(rp):not(bdi):not(bdo):not(span):not(br):not(wbr):not(ins):not(del):not(picture):not(img):not(iframe):not(embed):not(object):not(video):not(audio):not(map):not(math):not(svg):not(label):not(input):not(button):not(select):not(datalist):not(textarea):not(keygen):not(output):not(progress):not(meter):not(script):not(noscript):not(template):not(canvas) {
+    color: $color !important;
+    background-color: $bgcolor !important;
+}
+
+rb>*:not(a):not(em):not(strong):not(small):not(s):not(cite):not(q):not(dfn):not(abbr):not(data):not(time):not(code):not(var):not(samp):not(kbd):not(sub):not(sup):not(i):not(b):not(u):not(mark):not(ruby):not(bdi):not(bdo):not(span):not(br):not(wbr):not(ins):not(del):not(picture):not(img):not(iframe):not(embed):not(object):not(video):not(audio):not(map):not(math):not(svg):not(label):not(input):not(button):not(select):not(datalist):not(textarea):not(keygen):not(output):not(progress):not(meter):not(script):not(noscript):not(template):not(canvas) {
+    color: $color !important;
+    background-color: $bgcolor !important;
+}
+
+rt>*:not(a):not(em):not(strong):not(small):not(s):not(cite):not(q):not(dfn):not(abbr):not(data):not(time):not(code):not(var):not(samp):not(kbd):not(sub):not(sup):not(i):not(b):not(u):not(mark):not(ruby):not(bdi):not(bdo):not(span):not(br):not(wbr):not(ins):not(del):not(picture):not(img):not(iframe):not(embed):not(object):not(video):not(audio):not(map):not(math):not(svg):not(label):not(input):not(button):not(select):not(datalist):not(textarea):not(keygen):not(output):not(progress):not(meter):not(script):not(noscript):not(template):not(canvas) {
+    color: $color !important;
+    background-color: $bgcolor !important;
+}
+
+rtc>*:not(a):not(em):not(strong):not(small):not(s):not(cite):not(q):not(dfn):not(abbr):not(data):not(time):not(code):not(var):not(samp):not(kbd):not(sub):not(sup):not(i):not(b):not(u):not(mark):not(ruby):not(bdi):not(bdo):not(span):not(br):not(wbr):not(ins):not(del):not(picture):not(img):not(iframe):not(embed):not(object):not(video):not(audio):not(map):not(math):not(svg):not(label):not(input):not(button):not(select):not(datalist):not(textarea):not(keygen):not(output):not(progress):not(meter):not(script):not(noscript):not(template):not(canvas) {
+    color: $color !important;
+    background-color: $bgcolor !important;
+}
+
+rp>*:not(a):not(em):not(strong):not(small):not(s):not(cite):not(q):not(dfn):not(abbr):not(data):not(time):not(code):not(var):not(samp):not(kbd):not(sub):not(sup):not(i):not(b):not(u):not(mark):not(ruby):not(bdi):not(bdo):not(span):not(br):not(wbr):not(ins):not(del):not(picture):not(img):not(iframe):not(embed):not(object):not(video):not(audio):not(map):not(math):not(svg):not(label):not(input):not(button):not(select):not(datalist):not(textarea):not(keygen):not(output):not(progress):not(meter):not(script):not(noscript):not(template):not(canvas) {
+    color: $color !important;
+    background-color: $bgcolor !important;
+}
+
+bdi>* {
+    color: $color !important;
+    background-color: $bgcolor !important;
+}
+
+bdo>* {
+    color: $color !important;
+    background-color: $bgcolor !important;
+}
+
+span>*:not(a):not(em):not(strong):not(small):not(s):not(cite):not(q):not(dfn):not(abbr):not(data):not(time):not(code):not(var):not(samp):not(kbd):not(sub):not(sup):not(i):not(b):not(u):not(mark):not(ruby):not(bdi):not(bdo):not(span):not(br):not(wbr):not(ins):not(del):not(picture):not(img):not(iframe):not(embed):not(object):not(video):not(audio):not(map):not(math):not(svg):not(label):not(input):not(button):not(select):not(datalist):not(textarea):not(keygen):not(output):not(progress):not(meter):not(script):not(noscript):not(template):not(canvas) {
+    color: $color !important;
+    background-color: $bgcolor !important;
+}
+
+br>* {
+    color: $color !important;
+    background-color: $bgcolor !important;
+}
+
+wbr>* {
+    color: $color !important;
+    background-color: $bgcolor !important;
+}
+
+ins>* {}
+
+del>* {}
+
+picture>*:not(img):not(source) {
+    color: $color !important;
+    background-color: $bgcolor !important;
+}
+
+img>* {
+    color: $color !important;
+    background-color: $bgcolor !important;
+}
+
+iframe>* {
+    color: $color !important;
+    background-color: $bgcolor !important;
+}
+
+embed>* {
+    color: $color !important;
+    background-color: $bgcolor !important;
+}
+
+object>*:not(article):not(section):not(nav):not(aside):not(h1):not(h2):not(h3):not(h4):not(h5):not(h6):not(header):not(footer):not(address):not(p):not(hr):not(pre):not(blockquote):not(ol):not(ul):not(dl):not(figure):not(div):not(a):not(em):not(strong):not(small):not(s):not(cite):not(q):not(dfn):not(abbr):not(data):not(time):not(code):not(var):not(samp):not(kbd):not(sub):not(sup):not(i):not(b):not(u):not(mark):not(ruby):not(bdi):not(bdo):not(span):not(br):not(wbr):not(ins):not(del):not(picture):not(img):not(iframe):not(embed):not(object):not(param):not(video):not(audio):not(map):not(math):not(svg):not(table):not(form):not(label):not(input):not(button):not(select):not(datalist):not(textarea):not(keygen):not(output):not(progress):not(meter):not(fieldset):not(details):not(dialog):not(script):not(noscript):not(template):not(canvas) {
+    color: $color !important;
+    background-color: $bgcolor !important;
+}
+
+
+
+
+
+
+
+
+
+
+param>* {
+    color: $color !important;
+    background-color: $bgcolor !important;
+}
+
+video>* {}
+
+audio>* {}
+
+source>* {
+    color: $color !important;
+    background-color: $bgcolor !important;
+}
+
+track>* {
+    color: $color !important;
+    background-color: $bgcolor !important;
+}
+
+map>* {}
+
+area>* {
+    color: $color !important;
+    background-color: $bgcolor !important;
+}
+
+math>* {}
+
+svg>* {}
+
+table>*:not(caption) :not(colgroup) :not(tbody) :not(thead) :not(tfoot) :not(tr) :not(script) :not(template) {
+    color: $color !important;
+    background-color: $bgcolor !important;
+}
+
+caption>*:not(article):not(section):not(nav):not(aside):not(h1):not(h2):not(h3):not(h4):not(h5):not(h6):not(header):not(footer):not(address):not(p):not(hr):not(pre):not(blockquote):not(ol):not(ul):not(dl):not(figure):not(div):not(a):not(em):not(strong):not(small):not(s):not(cite):not(q):not(dfn):not(abbr):not(data):not(time):not(code):not(var):not(samp):not(kbd):not(sub):not(sup):not(i):not(b):not(u):not(mark):not(ruby):not(bdi):not(bdo):not(span):not(br):not(wbr):not(ins):not(del):not(picture):not(img):not(iframe):not(embed):not(object):not(video):not(audio):not(map):not(math):not(svg):not(form):not(label):not(input):not(button):not(select):not(datalist):not(textarea):not(keygen):not(output):not(progress):not(meter):not(fieldset):not(details):not(dialog):not(script):not(noscript):not(template):not(canvas) {
+    color: $color !important;
+    background-color: $bgcolor !important;
+}
+
+
+
+
+colgroup>*:not(col):not(template) {
+    color: $color !important;
+    background-color: $bgcolor !important;
+}
+
+col>* {
+    color: $color !important;
+    background-color: $bgcolor !important;
+}
+
+tbody>*:not(tr):not(script):note(template) {
+    color: $color !important;
+    background-color: $bgcolor !important;
+}
+
+thead>*:not(tr):not(script):not(template) {
+    color: $color !important;
+    background-color: $bgcolor !important;
+}
+
+tfoot>*:not(tr):not(script):not(template) {
+    color: $color !important;
+    background-color: $bgcolor !important;
+}
+
+tr>*:not(th):not(td) :not(script) :not(template) {
+    color: $color !important;
+    background-color: $bgcolor !important;
+}
+
+th>*:not(address):not(p):not(hr):not(pre):not(blockquote):not(ol):not(ul):not(dl):not(figure):not(div):not(a):not(em):not(strong):not(small):not(s):not(cite):not(q):not(dfn):not(abbr):not(data):not(time):not(code):not(var):not(samp):not(kbd):not(sub):not(sup):not(i):not(b):not(u):not(mark):not(ruby):not(bdi):not(bdo):not(span):not(br):not(wbr):not(ins):not(del):not(picture):not(img):not(iframe):not(embed):not(object):not(video):not(audio):not(map):not(math):not(svg):not(table):not(form):not(label):not(input):not(button):not(select):not(datalist):not(textarea):not(keygen):not(output):not(progress):not(meter):not(fieldset):not(details):not(dialog):not(script):not(noscript):not(template):not(canvas) {
+    color: $color !important;
+    background-color: $bgcolor !important;
+}
+
+td>**:not(article):not(section):not(nav):not(aside):not(h1):not(h2):not(h3):not(h4):not(h5):not(h6):not(header):not(footer):not(address):not(p):not(hr):not(pre):not(blockquote):not(ol):not(ul):not(dl):not(figure):not(div):not(a):not(em):not(strong):not(small):not(s):not(cite):not(q):not(dfn):not(abbr):not(data):not(time):not(code):not(var):not(samp):not(kbd):not(sub):not(sup):not(i):not(b):not(u):not(mark):not(ruby):not(bdi):not(bdo):not(span):not(br):not(wbr):not(ins):not(del):not(picture):not(img):not(iframe):not(embed):not(object):not(video):not(audio):not(map):not(math):not(svg):not(table):not(form):not(label):not(input):not(button):not(select):not(datalist):not(textarea):not(keygen):not(output):not(progress):not(meter):not(fieldset):not(details):not(dialog):not(script):not(noscript):not(template):not(canvas) {
+    color: $color !important;
+    background-color: $bgcolor !important;
+}
+
+form>*:not(article):not(section):not(nav):not(aside):not(h1):not(h2):not(h3):not(h4):not(h5):not(h6):not(header):not(footer):not(address):not(p):not(hr):not(pre):not(blockquote):not(ol):not(ul):not(dl):not(figure):not(div):not(a):not(em):not(strong):not(small):not(s):not(cite):not(q):not(dfn):not(abbr):not(data):not(time):not(code):not(var):not(samp):not(kbd):not(sub):not(sup):not(i):not(b):not(u):not(mark):not(ruby):not(bdi):not(bdo):not(span):not(br):not(wbr):not(ins):not(del):not(picture):not(img):not(iframe):not(embed):not(object):not(video):not(audio):not(map):not(math):not(svg):not(table):not(label):not(input):not(button):not(select):not(datalist):not(textarea):not(keygen):not(output):not(progress):not(meter):not(fieldset):not(details):not(dialog):not(script):not(noscript):not(template):not(canvas) {
+    color: $color !important;
+    background-color: $bgcolor !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+label>*:not(a):not(em):not(strong):not(small):not(s):not(cite):not(q):not(dfn):not(abbr):not(data):not(time):not(code):not(var):not(samp):not(kbd):not(sub):not(sup):not(i):not(b):not(u):not(mark):not(ruby):not(bdi):not(bdo):not(span):not(br):not(wbr):not(ins):not(del):not(picture):not(img):not(iframe):not(embed):not(object):not(video):not(audio):not(map):not(math):not(svg):not(input):not(button):not(select):not(datalist):not(textarea):not(keygen):not(output):not(progress):not(meter):not(script):not(noscript):not(template):not(canvas) {
+    color: $color !important;
+    background-color: $bgcolor !important;
+}
+
+
+
+input>* {
+    color: $color !important;
+    background-color: $bgcolor !important;
+}
+
+button>* {}
+
+select>*:not(optgroup):not(option):not(script):not(template) {
+    color: $color !important;
+    background-color: $bgcolor !important;
+}
+
+datalist>*:not(a):not(em):not(strong):not(small):not(s):not(cite):not(q):not(dfn):not(abbr):not(data):not(time):not(code):not(var):not(samp):not(kbd):not(sub):not(sup):not(i):not(b):not(u):not(mark):not(ruby):not(bdi):not(bdo):not(span):not(br):not(wbr):not(ins):not(del):not(picture):not(img):not(iframe):not(embed):not(object):not(video):not(audio):not(map):not(math):not(svg):not(label):not(input):not(button):not(select):not(datalist):not(option):not(textarea):not(keygen):not(output):not(progress):not(meter):not(script):not(noscript):not(template):not(canvas) {
+    color: $color !important;
+    background-color: $bgcolor !important;
+}
+
+optgroup>*:not(option):not(script):not(template) {
+    color: $color !important;
+    background-color: $bgcolor !important;
+}
+
+option>* {
+    color: $color !important;
+    background-color: $bgcolor !important;
+}
+
+textarea>* {
+    color: $color !important;
+    background-color: $bgcolor !important;
+}
+
+keygen>* {
+    color: $color !important;
+    background-color: $bgcolor !important;
+}
+
+output>*:not(a):not(em):not(strong):not(small):not(s):not(cite):not(q):not(dfn):not(abbr):not(data):not(time):not(code):not(var):not(samp):not(kbd):not(sub):not(sup):not(i):not(b):not(u):not(mark):not(ruby):not(bdi):not(bdo):not(span):not(br):not(wbr):not(ins):not(del):not(picture):not(img):not(iframe):not(embed):not(object):not(video):not(audio):not(map):not(math):not(svg):not(label):not(input):not(button):not(select):not(datalist):not(textarea):not(keygen):not(output):not(progress):not(meter):not(script):not(noscript):not(template):not(canvas) {
+    color: $color !important;
+    background-color: $bgcolor !important;
+}
+
+progress>*:not(a):not(em):not(strong):not(small):not(s):not(cite):not(q):not(dfn):not(abbr):not(data):not(time):not(code):not(var):not(samp):not(kbd):not(sub):not(sup):not(i):not(b):not(u):not(mark):not(ruby):not(bdi):not(bdo):not(span):not(br):not(wbr):not(ins):not(del):not(picture):not(img):not(iframe):not(embed):not(object):not(video):not(audio):not(map):not(math):not(svg):not(label):not(input):not(button):not(select):not(datalist):not(textarea):not(keygen):not(output):not(meter):not(script):not(noscript):not(template):not(canvas) {}
+
+
+
+meter>*:not(a):not(em):not(strong):not(small):not(s):not(cite):not(q):not(dfn):not(abbr):not(data):not(time):not(code):not(var):not(samp):not(kbd):not(sub):not(sup):not(i):not(b):not(u):not(mark):not(ruby):not(bdi):not(bdo):not(span):not(br):not(wbr):not(ins):not(del):not(picture):not(img):not(iframe):not(embed):not(object):not(video):not(audio):not(map):not(math):not(svg):not(label):not(input):not(button):not(select):not(datalist):not(textarea):not(keygen):not(output):not(progress):not(script):not(noscript):not(template):not(canvas) {}
+
+fieldset>*:not(article) :not(section) :not(nav) :not(aside) :not(h1) :not(h2) :not(h3) :not(h4) :not(h5) :not(h6) :not(header) :not(footer) :not(address):not(p) :not(hr) :not(pre) :not(blockquote) :not(ol) :not(ul) :not(dl) :not(figure) :not(div):not(a) :not(em) :not(strong) :not(small) :not(s) :not(cite) :not(q) :not(dfn) :not(abbr) :not(data) :not(time) :not(code) :not(var) :not(samp) :not(kbd) :not(sub) :not(sup) :not(i) :not(b) :not(u) :not(mark) :not(ruby) :not(bdi) :not(bdo) :not(span) :not(br) :not(wbr):not(ins) :not(del) :not(picture) :not(img) :not(iframe) :not(embed) :not(object):not(video) :not(audio) :not(map) :not(math) :not(svg) :not(table):not(form) :not(label) :not(input) :not(button) :not(select) :not(datalist) :not(textarea) :not(keygen) :not(output) :not(progress) :not(meter) :not(fieldset) :not(legend):not(details) :not(dialog) :not(script) :not(noscript) :not(template) :not(canvas) {
+    color: $color !important;
+    background-color: $bgcolor !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+legend>* :not(a):not(em):not(strong):not(small):not(s):not(cite):not(q):not(dfn):not(abbr):not(data):not(time):not(code):not(var):not(samp):not(kbd):not(sub):not(sup):not(i):not(b):not(u):not(mark):not(ruby):not(bdi):not(bdo):not(span):not(br):not(wbr):not(ins):not(del):not(picture):not(img):not(iframe):not(embed):not(object):not(video):not(audio):not(map):not(math):not(svg):not(label):not(input):not(button):not(select):not(datalist):not(textarea):not(keygen):not(output):not(progress):not(meter):not(script):not(noscript):not(template):not(canvas) {
+    color: $color !important;
+    background-color: $bgcolor !important;
+}
+
+
+
+
+
+
+
+
+
+details>**:not(article):not(section):not(nav):not(aside):not(h1):not(h2):not(h3):not(h4):not(h5):not(h6):not(header):not(footer):not(address):not(p):not(hr):not(pre):not(blockquote):not(ol):not(ul):not(dl):not(figure):not(div):not(a):not(em):not(strong):not(small):not(s):not(cite):not(q):not(dfn):not(abbr):not(data):not(time):not(code) :not(var):not(samp):not(kbd):not(sub):not(sup):not(i):not(b):not(u):not(mark):not(ruby):not(bdi):not(bdo):not(span):not(br):not(wbr):not(ins):not(del):not(picture):not(img):not(iframe):not(embed):not(object):not(video):not(audio):not(map):not(math):not(svg):not(table):not(form):not(label):not(input):not(button):not(select):not(datalist):not(textarea) :not(keygen):not(output):not(progress):not(meter):not(fieldset):not(details):not(dialog):not(script):not(noscript):not(template):not(canvas) {
+    color: $color !important;
+    background-color: $bgcolor !important;
+}
+
+summary>*:not(h1):not(h2):not(h3):not(h4):not(h5):not(h6):not(a):not(em):not(strong):not(small):not(s):not(cite):not(q):not(dfn):not(abbr):not(data):not(time):not(code):not(var):not(samp):not(kbd):not(sub):not(sup):not(i):not(b):not(u):not(mark):not(ruby):not(bdi):not(bdo):not(span):not(br):not(wbr):not(ins):not(del):not(picture):not(img):not(iframe):not(embed):not(object):not(video):not(audio):not(map):not(math):not(svg):not(label):not(input):not(button):not(select):not(datalist):not(textarea):not(keygen):not(output):not(progress):not(meter):not(script):not(noscript):not(template):not(canvas) {
+    color: $color !important;
+    background-color: $bgcolor !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+dialog>*:not(article):not(section):not(nav):not(aside):not(h1):not(h2):not(h3):not(h4):not(h5):not(h6):not(header):not(footer):not(address):not(p):not(hr):not(pre):not(blockquote):not(ol):not(ul):not(dl):not(figure):not(div):not(a):not(em):not(strong):not(small):not(s):not(cite):not(q):not(dfn):not(abbr):not(data):not(time):not(code) :not(var):not(samp):not(kbd):not(sub):not(sup):not(i):not(b):not(u):not(mark):not(ruby):not(bdi):not(bdo):not(span):not(br):not(wbr):not(ins):not(del):not(picture):not(img):not(iframe):not(embed):not(object):not(video):not(audio):not(map):not(math):not(svg):not(table):not(form):not(label):not(input):not(button):not(select):not(datalist):not(textarea) :not(keygen):not(output):not(progress):not(meter):not(fieldset):not(details):not(dialog):not(script):not(noscript):not(template):not(canvas) {
+    color: $color !important;
+    background-color: $bgcolor !important;
+}
+
+
+
+
+
+
+
+script>* {
+    color: $color !important;
+    background-color: $bgcolor !important;
+}
+
+noscript>* {}
+
+template>*:not(title):not(base):not(link):not(meta):not(style):not(article):not(section):not(nav):not(aside):not(h1):not(h2):not(h3):not(h4):not(h5):not(h6):not(header):not(footer):not(address):not(p):not(hr):not(pre):not(blockquote):not(ol):not(ul):not(li):not(dl):not(dt):not(dd):not(figure):not(figcaption):not(div):not(a):not(em):not(strong):not(small):not(s):not(cite):not(q):not(dfn):not(abbr):not(data):not(time):not(code):not(var):not(samp):not(kbd):not(sub):not(sup):not(i):not(b):not(u):not(mark):not(ruby):not(rb):not(rt):not(rtc):not(rp):not(bdi):not(bdo):not(span):not(br):not(wbr):not(ins):not(del):not(picture):not(img):not(iframe):not(embed):not(object):not(param):not(video):not(audio):not(source):not(track):not(map):not(math):not(svg):not(table):not(caption):not(colgroup):not(col):not(tbody):not(thead):not(tfoot):not(tr):not(th):not(td):not(form):not(label):not(input):not(button):not(select):not(datalist):not(optgroup):not(option):not(textarea):not(keygen):not(output):not(progress):not(meter):not(fieldset):not(legend):not(details):not(dialog):not(script):not(noscript):not(template):not(canvas) {
+    color: $color !important;
+    background-color: $bgcolor !important;
+}
+
+
+
+
+
+
+
+
+
+
+canvas>* {}
+
+
+
+
+
+
+
+/* 下記は例外 */
+
+/* map 要素 area */
+map article area {}
+
+map section area {}
+
+map nav area {}
+
+map aside area {}
+
+map h1 area {}
+
+map h2 area {}
+
+map h3 area {}
+
+map h4 area {}
+
+map h5 area {}
+
+map h6 area {}
+
+map header area {}
+
+map footer area {}
+
+map address area {}
+
+map p area {}
+
+map pre area {}
+
+map blockquote area {}
+
+map li area {}
+
+map dt area {}
+
+map dd area {}
+
+map figure area {}
+
+map figcaption area {}
+
+map div area {}
+
+map main area {}
+
+map a area {}
+
+map em area {}
+
+map strong area {}
+
+map small area {}
+
+map s area {}
+
+map cite area {}
+
+map q area {}
+
+map dfn area {}
+
+map abbr area {}
+
+map data area {}
+
+map time area {}
+
+map code area {}
+
+map var area {}
+
+map samp area {}
+
+map kbd area {}
+
+map sub area {}
+
+map sup area {}
+
+map i area {}
+
+map b area {}
+
+map u area {}
+
+map mark area {}
+
+map ruby area {}
+
+map rb rt area {}
+
+map rtc area {}
+
+map rp area {}
+
+map span area {}
+
+map ins area {}
+
+map del area {}
+
+map object area {}
+
+map video area {}
+
+map map area {}
+
+map caption area {}
+
+map th area {}
+
+map td form area {}
+
+map label area {}
+
+map button area {}
+
+map datalist area {}
+
+map output area {}
+
+map progress area {}
+
+map meter area {}
+
+map fieldset area {}
+
+map legend area {}
+
+map details area {}
+
+map summary area {}
+
+map dialog area {}
+
+map noscript area {}
+
+map template area {}
+
+map canvas area {}
+
+
+
+
+/* div */
+dl>div>dt {}
+
+dl>div>dd {}
