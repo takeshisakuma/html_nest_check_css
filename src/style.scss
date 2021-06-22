@@ -405,7 +405,7 @@ col>* {
     background-color: $bgcolor !important;
 }
 
-tbody>*:not(tr):not(script):note(template) {
+tbody>*:not(tr):not(script):not(template) {
     color: $color !important;
     background-color: $bgcolor !important;
 }
